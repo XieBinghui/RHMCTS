@@ -2,8 +2,6 @@
 
 
 
-Final project of FDU DATA130008, AI (artificial intelligence) in 2019 spring semester.
-
 Group members: 张奕朗, 谢炳辉.
 
 RHMCTS : Restricted Heuristic Monte Carlo Tree Search.
